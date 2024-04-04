@@ -14,10 +14,12 @@ Ability to add/remove users (Businesses and Students).
 Approve/decline requests.
 Content moderation, ensuring the quality and appropriateness of posted content.
 Access to separate interfaces for managing students and businesses.
+
 Businesses: Empowered to post job inquiries and manage their company profile.
 Posting job opportunities with detailed information (e.g., category, time, payment, location, description, website link).
 Setting application deadlines with automatic removal of postings after expiration.
 Company profile management.
+
 Students: Access to job postings and tools to enhance their job search.
 Ability to view and apply to job postings based on preferences (e.g., category, location, payment).
 Profile creation with personal details, interests, hobbies, CV, and project links.
